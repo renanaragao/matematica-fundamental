@@ -45,3 +45,40 @@ O $4$ (cima) com o $8$ (baixo) $\rightarrow$ divide ambos por 4.
 O $3$ (cima) com o $9$ (baixo) $\rightarrow$ divide ambos por 3.
 
 Resultado: $\frac{\cancel{4}^1}{\cancel{9}_3} \times \frac{\cancel{3}^1}{\cancel{8}_2} = \frac{1 \times 1}{3 \times 2} = \frac{1}{6}$
+
+===========================
+
+1. A Regra do "DE"
+   Sempre que você quer uma fração de outra quantidade, você multiplica:
+
+- "O dobro de 10" $\rightarrow 2 \cdot 10 = 20$";
+- A metade de 10" $\rightarrow \frac{1}{2} \cdot 10 = 5$";
+- Metade de $\frac{4}{5}$" $\rightarrow \frac{1}{2} \cdot \frac{4}{5}$.
+
+1. Dividir por 2 é o mesmo que Multiplicar por 1/2
+
+Na regra de divisão de frações, você mantém a primeira e multiplica pelo inverso da segunda.
+Se você quer fazer $\frac{4}{5} \div 2$:
+
+1. O número $2$ pode ser escrito como $\frac{2}{1}$;
+2. O inverso de $\frac{2}{1}$ é $\frac{1}{2}$;
+3. Então: $\frac{4}{5} \div \frac{2}{1} = \frac{4}{5} \cdot \frac{1}{2}$.
+
+4. Visualizando a ReceitaImagine a sua xícara dividida em 5 partes. Você tem 4 dessas partes cheias ($\frac{4}{5}$):
+
+- Se você quer a metade, você vai pegar essas 4 partes e considerar apenas 2 delas;
+- Matematicamente: $\frac{4}{5} \cdot \frac{1}{2} = \frac{4}{10}$;
+- Simplificando $\frac{4}{10}$ (dividindo por 2), chegamos a $\frac{2}{5}$.
+
+Fazendo com a simplificação cruzada que aprendemos:
+
+$\frac{\cancel{4}^2}{5} \cdot \frac{1}{\cancel{2}_1} = \frac{2 \cdot 1}{5 \cdot 1} = \frac{2}{5}$
+
+Resumo Visual
+
+| Termo em Português | Operação Matemática |
+| ------------------ | ------------------- |
+| Metade de...       | $\cdot \frac{1}{2}$ |
+| Um terço de...     | $\cdot \frac{1}{3}$ |
+| Um quarto de...    | $\cdot \frac{1}{4}$ |
+| O triplo de...     | $\cdot 3$           |
