@@ -138,7 +138,7 @@ Repare que o "2" (inverso de $1/2$) representa quantas fatias saem de cada intei
 | ------------------------------ | -------------------------------------------------------------------- | -------------------------------- |
 | $\frac{a}{b} \div \frac{c}{d}$ | $\frac{a}{b} \cdot \frac{d}{c} \div (\frac{c}{d} \cdot \frac{d}{c})$ | $\frac{a}{b} \times \frac{d}{c}$ |
 
-### Divisão Direta (Numerador com Numerador)
+## Divisão Direta (Numerador com Numerador)
 
 Muita gente acha que não pode dividir direto, mas pode, desde que os números sejam divisíveis entre si. Se os numeradores e os denominadores tiverem divisores comuns, você não precisa inverter nada.
 
@@ -147,6 +147,33 @@ Exemplo: $\frac{10}{9} \div \frac{2}{3}$
 - Divida os numeradores: $10 \div 2 = \mathbf{5}$
 - Divida os denominadores: $9 \div 3 = \mathbf{3}$
 - Resultado: $\frac{5}{3}$
+
+## Redução ao Mesmo Denominador
+
+Essa técnica é excelente para visualizar a divisão. Se as frações têm o mesmo "tamanho de pedaço" (denominador), você só precisa dividir os numeradores.
+
+Exemplo: $\frac{3}{4} \div \frac{1}{2}$
+
+1. Transforme $\frac{1}{2}$ em uma fração equivalente com denominador 4: $\frac{2}{4}$.
+2. Agora a conta é: $\frac{3}{4} \div \frac{2}{4}$.
+3. Como os denominadores são iguais, a pergunta é: "Quantas vezes o 2 cabe no 3?".
+4. Resultado: $\frac{3}{2}$ (ou $1 \frac{1}{2}$).
+
+## Multiplicação Cruzada (O "X" ou "Zig-Zag")
+
+Este é um método visual que pula a etapa de escrever a inversão. Você multiplica em diagonal e "reica" o resultado para o lado oposto.
+
+Passo 1: Multiplique o numerador da 1ª pelo denominador da 2ª. O resultado vai para o topo.
+
+Passo 2: Multiplique o denominador da 1ª pelo numerador da 2ª. O resultado vai para o fundo.
+
+## Qual método escolher?
+
+| **Método**            | **Quando usar?**                      | **Vantagem**                                          |
+| --------------------- | ------------------------------------- | ----------------------------------------------------- |
+| **Inversão**          | Sempre (é o padrão).                  | Funciona com qualquer número, mesmo os difíceis.      |
+| **Divisão Direta**    | Quando os números são múltiplos.      | É extremamente rápido e evita números grandes.        |
+| **Mesmo Denominador** | Quando você quer "enxergar" a lógica. | Facilita entender o conceito de "quantas vezes cabe". |
 
 # Números Mistos
 
