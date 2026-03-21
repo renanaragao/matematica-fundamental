@@ -18,7 +18,7 @@ Um número misto (como $2 \frac{3}{4}$) representa uma parte inteira e uma parte
 - Soma: $15 + 2 = 17$
 - Resultado: $\frac{17}{5}$
 
-$3 \frac{2}{5} = \frac{(5 \times 3) + 2}{5} = \frac{17}{5}$
+$$3 \frac{2}{5} = \frac{(5 \times 3) + 2}{5} = \frac{17}{5}$$
 
 ### A Lógica por trás da "Regra do Círculo"
 
