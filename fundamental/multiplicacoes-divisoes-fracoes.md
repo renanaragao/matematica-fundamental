@@ -74,12 +74,14 @@ Resultado: $\frac{\cancel{4}^1}{\cancel{9}_3} \times \frac{\cancel{3}^1}{\cancel
 >
 > $\frac{\cancel{4}^2}{5} \cdot \frac{1}{\cancel{2}_1} = \frac{2 \cdot 1}{5 \cdot 1} = \frac{2}{5}$
 >
-> Resumo Visual
+> Resumo Visual:
 >
 > | Termo em Português | Operação Matemática |
-> | ------------------ | ------------------- | --- | --------------- | ------------------- | --- | -------------- | --------- |
+> | ------------------ | ------------------- |
 > | Metade de...       | $\cdot \frac{1}{2}$ |
-> | Um terço de...     | $\cdot \frac{1}{3}$ |     | Um quarto de... | $\cdot \frac{1}{4}$ |     | O triplo de... | $\cdot 3$ |
+> | Um terço de...     | $\cdot \frac{1}{3}$ |
+> | Um quarto de...    | $\cdot \frac{1}{4}$ |
+> | O triplo de...     | $\cdot 3$           |
 
 # Divisão de Frações
 
