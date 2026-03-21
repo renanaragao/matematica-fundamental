@@ -4,7 +4,7 @@
 
 Na multiplicação de frações, basta multiplicar os numeradores entre si e os denominadores entre si:
 
-$\frac{3}{5}\times\frac{4}{7} = \frac{12}{35}$
+$$\frac{3}{5}\times\frac{4}{7} = \frac{12}{35}$$
 
 Simplifique se puder;
 
@@ -12,11 +12,11 @@ Simplifique se puder;
 
 **SIMPLIFICAÇÃO CRUZADA** ou **CANCELAMENTO** permite simplificar a multiplicação de frações antes de realizar a multiplicação propriamente dita. Para isso, basta verificar se o numerador de uma fração tem algum fator comum com o denominador da outra fração. Se houver, podemos simplificar ambos os termos por esse fator comum:
 
-$\frac{1}{4}\times\frac{8}{9}$
+$$\frac{1}{4}\times\frac{8}{9}$$
 
 O **MDC** de 8 e 4 é 4, então podemos dividir o numerador da segunda fração e o denominador da primeira fração por 4:
 
-$\frac{1}{\cancel{4}}\times\frac{\cancel{8}}{9} = \frac{1}{1}\times\frac{2}{9} = \frac{2}{9}$
+$$\frac{1}{\cancel{4}}\times\frac{\cancel{8}}{9} = \frac{1}{1}\times\frac{2}{9} = \frac{2}{9}$$
 
 A simplificação (seja ela a comum ou a cruzada) só pode ser feita entre um numerador e um denominador.
 
@@ -72,7 +72,7 @@ Resultado: $\frac{\cancel{4}^1}{\cancel{9}_3} \times \frac{\cancel{3}^1}{\cancel
 >
 > Fazendo com a simplificação cruzada que aprendemos:
 >
-> $\frac{\cancel{4}^2}{5} \cdot \frac{1}{\cancel{2}_1} = \frac{2 \cdot 1}{5 \cdot 1} = \frac{2}{5}$
+> $$\frac{\cancel{4}^2}{5} \cdot \frac{1}{\cancel{2}_1} = \frac{2 \cdot 1}{5 \cdot 1} = \frac{2}{5}$$
 >
 > Resumo Visual:
 >
@@ -93,7 +93,7 @@ Para dividir frações, siga esses passos:
 2. Mude o sinal de divisão para multiplicação;
 3. Execute a multiplicação.
 
-$\frac{3}{5}\div\frac{8}{9}=\frac{3}{5}\cdot\frac{9}{8}=\frac{27}{40}$
+$$\frac{3}{5}\div\frac{8}{9}=\frac{3}{5}\cdot\frac{9}{8}=\frac{27}{40}$$
 
 ### Por a inversão funciona
 
