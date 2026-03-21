@@ -181,4 +181,4 @@ Passo 2: Multiplique o denominador da 1ª pelo numerador da 2ª. O resultado vai
 
 Não esqueça que, para multiplicar ou dividr números mistos, é preciso primeiro convertê-los para frações impróprias. Por exemplo:
 
-$2\frac{1}{3}\div1\frac{1}{4}=>\frac{7}{3}\div\frac{5}{4}=\frac{7}{3}\cdot\frac{4}{5}=\frac{28}{15}=1\frac{13}{15}$
+$$2\frac{1}{3}\div1\frac{1}{4}=>\frac{7}{3}\div\frac{5}{4}=\frac{7}{3}\cdot\frac{4}{5}=\frac{28}{15}=1\frac{13}{15}$$
