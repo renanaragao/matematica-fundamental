@@ -25,7 +25,7 @@ Já sabemos que 15 (objetos) dividido(s) em 3 (grupos) resulta em 5 (objetos por
 um total 2 vezes maior, ou seja, 30 objetos, e continuarmos
 dividindo-os em 3 grupos, obteremos 10 objetos em cada grupo:
 
-$15 ÷ 3 = 5 =⇒ (2 × 15) ÷ 3 = 2 × 5 =⇒ 30 ÷ 3 = 10$.
+$15 ÷ 3 = 5 ⇒ (2 × 15) ÷ 3 = 2 × 5 ⇒ 30 ÷ 3 = 10$.
 
 ## Por que a regra citada acima não se aplica a zero ou a números decimais?
 
